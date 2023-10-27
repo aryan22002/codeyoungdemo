@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Website Hosting Test Demo
+        </title>
+    </head>
+    <body style="font-size:20px;background-color:yellow;">
+        <p> Hello! </p>
+        <p> Thank You!!! </p>
+    </body>
+</html>
