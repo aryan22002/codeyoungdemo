@@ -1,0 +1,68 @@
+<!DOCTYPE>
+<html>
+    <head>
+        <style> 
+            div{
+                width:200px;
+                height:200px;
+                color:white;
+                animation:demo 5s ease-in infinite, trans 5s ease-in-out infinite;
+                border-radius:40px;
+            }
+            @keyframes demo {
+                0% {background:red; width:10px; height:1px}
+            50% {background:orange; width:10px; height:1px}
+            75% {background:yellow; width:50px; height:1px}
+            90% {background:black; width:70px; height:35px}
+            100% {background:black; width:70px; height:35px}
+            }
+
+            @keyframes trans
+            {
+    0% {transform:translate(10000cm) scale(1) rotate(0deg);}
+    25% {transform:translate(100px) scale(1) rotate(0deg);}
+    50% {transform:translate(0px) scale(1) rotate(360000deg);}
+    75% {transform:translate(100px) scale(1) rotate(0deg);}
+    76% {transform:translate(10000cm) scale(1) rotate(360deg);}
+    80% {transform:translate(100px) scale(1) rotate(360deg);}
+    1000% {transform:translate(100px) scale(1) rotate(360deg);}
+    }
+    body{
+     text-shadow: 5px 8px 4px black;
+    }
+ 
+            li{
+                display:inline-block;
+                padding:10px;
+            }
+            </style>
+    </head>
+    <body>
+        <div> From Aryan!!! </div>
+        <h2 style="text-align:right; color:white;"> Favorite Restraunt? <u> CAVA </u> </h2>
+        <h2 style="color:white;text-align:center;"> Why is cava my favorite you aks? Oh, well, you see, cava may sound like a really boring restraunt if you really think about it, but this makes my mouth be so happy. (I can't wait)</h2>
+            <h1 style="color:white;font-size:20px"> Cava is the best restraunt ever! Why? Well, it has rice, sauce, tomatoes, onions, well kind of like a salad, but waay better. Here, just take a look:
+            </p> 
+            <img src="https://images.ctfassets.net/kugm9fp9ib18/41rOHDZkSQjgDqq8FHJ694/37da852c60b8f5b87f90e4279e6a4984/harissa_avocado-220606-web.png" width="400px" height="400px">
+             <h1 style="color:white;font-size:20px"> You can't tell me that, that is bad! Like, HOW??? There is even ice cream there at the top right! This is the best "salad" you could ever have in your life! (At least it is for me). First, you get everything separated, but, the correct way to eat them is to mix all of them up. Then you have the best "salad" of your life. I can tell you, if you have a small family party, I 100% reccomend you to buy these for your family, entertainment, and taste. Like I have just turned 11 years old, but when I am old enough to drive and I have money, I am getting these. They are the best. If you don't eat this, there is something wrong with you, and you are missing out </p>
+             <marquee style="font-size:100px"> <b> A LOT!!! </b> </marquee>
+
+<footer style="background-color:yellow;width:100%;text-align:center;">
+        <h3> Aryan </h3>
+        <p> @ Copyright 2020-2022.
+            <br>
+            Made by dev </p>
+            </footer>
+             <nav style="background-color:pink;">
+ <ul style="list-style-type:non;">
+                <li><a href="https://cava.com/menu"> Press this button to go and order some! </a> </li> </ul> 
+</nav>
+
+<article>
+  <header>
+    <p>Posted by Aryan Gnyawali</p>
+  </header>
+</article>
+
+    </body>
+</html>
